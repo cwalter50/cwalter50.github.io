@@ -2,3 +2,4 @@ theme: jekyll-theme-architect
 title: CWalterBuilds
 description: Bookmark me to keep an eye on project updates
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
