@@ -2,9 +2,9 @@
 ### Published Apps
 [MemoriesTree](https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1) | [OutOfTime](https://apps.apple.com/us/app/outoftime/id1333852115) | [Slidearoo](https://apps.apple.com/us/app/slidearoo/id1395435780) 
 ------------ | ------------- | ------------
-<a href="https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1"><img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png" alt="MemoriesTreeLogo" width="150"></a> | 
-<a href="(https://apps.apple.com/us/app/outoftime/id1333852115"><img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png" alt="OutOfTimeLogo" width="150"></a> | 
-<a href="(https://apps.apple.com/us/app/slidearoo/id1395435780"><img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png" alt="SlidearooLogo" width="150"></a>
+<a href="https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1"><img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png" alt="MemoriesTreeLogo" width="150"></a> | <a href="(https://apps.apple.com/us/app/outoftime/id1333852115"><img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png" alt="OutOfTimeLogo" width="150"></a> | <a href="(https://apps.apple.com/us/app/slidearoo/id1395435780"><img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png" alt="SlidearooLogo" width="150"></a>
+
+
 
 
 
