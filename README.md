@@ -13,6 +13,7 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project.
 - [ChristopherWalt Repl.it](https://repl.it/@ChristopherWalt): My repl.it profile. Full of hundreds of projects and code samples
 - [SmartFish](https://github.com/cwalter50/SmartFish): Making a "Smart Aquarium" that can be controlled by an App. Firebase and Arduino. Currently controls lights and auto feeds. Goal is to check temperature, water level, and more.
+- [ArduinoConnect](https://github.com/cwalter50/ArduinoConnect): An App that connects to Arduino via Bluetooth. Create During MME National Summit 2018.
 
 ## Mobile Apps Projects
 - [Race](https://github.com/cwalter50/Race): Create custom classes and objects in an interactive way.
