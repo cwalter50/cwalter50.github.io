@@ -16,7 +16,8 @@
 - [HHS Apps](https://sites.google.com/haverfordsd.net/hhsapps/): Apps built for Haverford HS by Haverford HS.
 - [Magic8Ball](https://github.com/cwalter50/Magic8Ball): Great intro in conditionals + using Siri with Text to Speech and shake gesture. _Taught at 2017 MME National Summit._
 - [Go For Gold](https://github.com/cwalter50/GoForGold): "Deal or No Deal" type game where you try to rack up as much cash as possible before stiking out. First tvOS project built using Swift. _Taught at 2018 MME National Summit._
-- [FlashCards](https://github.com/cwalter50/FlashCards): Use CoreData to make a great Flashcards app. _Taught at 2019 MME National Summit._ ![Image](https://github.com/cwalter50/FlashCards/blob/master/FlashCards/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76%401x.png)
+- [FlashCards](https://github.com/cwalter50/FlashCards): Use CoreData to make a great Flashcards app. _Taught at 2019 MME National Summit._ 
+![Image](https://github.com/cwalter50/FlashCards/blob/master/FlashCards/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76%401x.png)
 - [MobileMapper2019](https://github.com/cwalter50/MobileMapper2019): Completed MME Tutorial to create an app that uses MapKit and we can search the app for "parks", "pizza", etc.
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
 
