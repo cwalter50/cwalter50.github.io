@@ -1,4 +1,26 @@
 ## My Projects
+# Published Apps
+[MemoriesTree](https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1) | [OutOfTime](https://apps.apple.com/us/app/outoftime/id1333852115) | [Slidearoo](https://apps.apple.com/us/app/slidearoo/id1395435780) 
+------------ | ------------- | ------------
+![MemoriesTreeLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png =150x) | ![OutOfTimeLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png =150x) | ![SlidearooLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png =150x)
+
+
+
+<a href="https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1">
+      <img alt="MemoriesTreeLogo"
+           src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png"
+           width=150" height="150">
+</a> | <a href="https://apps.apple.com/us/app/outoftime/id1333852115">
+      <img alt="OutOfTimeLogo"
+           src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png"
+           width=150" height="150">
+</a> | <a href="https://apps.apple.com/us/app/slidearoo/id1395435780">
+      <img alt="SlidearooLogo"
+           src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png"
+           width=150" height="150">
+</a>
+                                  
+Content in the first column | Content in the second column
 - [MemoriesTree](https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1): iOS Journaling App. Perfect for journaling and sharing your memories or keeping them private. First Firebase App
 <a href="https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1">
       <img alt="MemoriesTreeLogo"
@@ -35,7 +57,6 @@
 - [Magic8Ball](https://github.com/cwalter50/Magic8Ball): Great intro in conditionals + using Siri with Text to Speech and shake gesture. _Taught at 2017 MME National Summit._
 - [Go For Gold](https://github.com/cwalter50/GoForGold): "Deal or No Deal" type game where you try to rack up as much cash as possible before stiking out. First tvOS project built using Swift. _Taught at 2018 MME National Summit._
 - [FlashCards](https://github.com/cwalter50/FlashCards): Use CoreData to make a great Flashcards app. _Taught at 2019 MME National Summit._ 
-![Image](https://github.com/cwalter50/FlashCards/blob/master/FlashCards/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76%401x.png)
 - [MobileMapper2019](https://github.com/cwalter50/MobileMapper2019): Completed MME Tutorial to create an app that uses MapKit and we can search the app for "parks", "pizza", etc.
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
 
