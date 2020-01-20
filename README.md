@@ -2,7 +2,10 @@
 # Published Apps
 [MemoriesTree](https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1) | [OutOfTime](https://apps.apple.com/us/app/outoftime/id1333852115) | [Slidearoo](https://apps.apple.com/us/app/slidearoo/id1395435780) 
 ------------ | ------------- | ------------
-![MemoriesTreeLogo](./artwork/MemoriesTreeLogo.png =100x) | ![OutOfTimeLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png) | ![SlidearooLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png)
+<img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png" alt="MemoriesTreeLogo" width="150"/> | <img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png" alt="MemoriesTreeLogo" width="150"/> | <img src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png" alt="MemoriesTreeLogo" width="150"/>
+
+
+![MemoriesTreeLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png) | ![OutOfTimeLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png) | ![SlidearooLogo](https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png)
 
 
 
