@@ -2,4 +2,3 @@ theme: jekyll-theme-architect
 title: CWalterBuilds
 description: I build and teach others to build
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
