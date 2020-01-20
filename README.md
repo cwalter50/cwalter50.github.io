@@ -5,9 +5,18 @@
            src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/MemoriesTreeLogo.png"
            width=150" height="150">
 </a>
-
 - [OutOfTime](https://apps.apple.com/us/app/outoftime/id1333852115): iOS and tvOS Family fun word game. Take turns listing items in a certain category before the music stops. Play music from your device in the game, In-App Purchases, and more. 
+<a href="https://apps.apple.com/us/app/outoftime/id1333852115">
+      <img alt="OutOfTimeLogo"
+           src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/OutOfTimeLogo.png"
+           width=150" height="150">
+</a>
 - ![Image](https://apps.apple.com/us/app/slidearoo/id1395435780)[Slidearoo](https://apps.apple.com/us/app/slidearoo/id1395435780): iOS and tvOS App. Play game of Fifteen slide puzzles with numbers or pictures. You can even play with your own photos. Keep your stats and compete with others. Cloudkit, In-App Purchase, Swift
+<a href="https://apps.apple.com/us/app/slidearoo/id1395435780">
+      <img alt="SlidearooLogo"
+           src="https://github.com/cwalter50/cwalter50.github.io/blob/master/artwork/SlidearooLogo.png"
+           width=150" height="150">
+</a>
 - [AssistStat Basketball](https://apps.apple.com/us/app/assiststat-basketball/id1135998980): iOS Basketball Stat Tracking App. Track stats for your Basketball Team and share with others. Uses CoreData and stats are saved to the devices memory.
 - [HandsDown](https://github.com/wikipeterson/HandsDown): iOS App built with Dr. Steve Peterson. Random student generator. BUilt with Swift, Spritekit, Cloudkit, and custom Artwork.
 - [APIApp](https://github.com/cwalter50/APIApp): Taught myself to work with API's. Used the numbersapi.com primarily but I played around with a few others to see what else I could come up with.
