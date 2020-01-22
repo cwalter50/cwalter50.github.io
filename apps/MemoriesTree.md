@@ -6,4 +6,4 @@ MemoriesTree is the best journaling app that allows users to store their memorie
 
 <a href="https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1"><img align="center" src="/artwork/MemoriesTreeLogo.png" alt="MemoriesTreeLogo" width="500"></a>
 
-See the [Privacy Policy](./apps/MemoriesTreePrivacyPolicy.md)
+See the [Privacy Policy](./MemoriesTreePrivacyPolicy.md)
