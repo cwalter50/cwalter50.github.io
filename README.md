@@ -29,3 +29,4 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
 - [Fractals](https://github.com/cwalter50/Fractals2): Worked with Dr. Peterson and used JavaSwing to make Sierpenski Triangle
+- [QuadCalculator](https://github.com/cwalter50/QuadCalculator): Java Swing Quadratic Formula Calculator. Interact with the repl.it [here](https://repl.it/@ChristopherWalt/QuadCalculator)
