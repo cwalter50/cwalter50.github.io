@@ -25,6 +25,8 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [FlashCards](https://github.com/cwalter50/FlashCards): Use CoreData to make a great Flashcards app. _Taught at 2019 MME National Summit._ 
 - [MobileMapper2019](https://github.com/cwalter50/MobileMapper2019): Completed MME Tutorial to create an app that uses MapKit and we can search the app for "parks", "pizza", etc.
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
+- [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
+
 
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
