@@ -11,7 +11,6 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [HandsDown](https://github.com/wikipeterson/HandsDown): iOS App built with Dr. Steve Peterson. Random student generator. BUilt with Swift, Spritekit, Cloudkit, and custom Artwork.
 - [APIApp](https://github.com/cwalter50/APIApp): Taught myself to work with API's. Used the numbersapi.com primarily but I played around with a few others to see what else I could come up with.
 - [CwalterBuilds Website](https://github.com/cwalter50/cwalter50.github.io): Used GitPages to build this website!!!!
-- [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project.
 - [ChristopherWalt Repl.it](https://repl.it/@ChristopherWalt): My repl.it profile. Full of hundreds of projects and code samples
 - [SmartFish](https://github.com/cwalter50/SmartFish): Making a "Smart Aquarium" that can be controlled by an App. Firebase and Arduino. Currently controls lights and auto feeds. Goal is to check temperature, water level, and more.
 - [ArduinoConnect](https://github.com/cwalter50/ArduinoConnect): An App that connects to Arduino via Bluetooth. Create During MME National Summit 2018.
@@ -25,8 +24,10 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [FlashCards](https://github.com/cwalter50/FlashCards): Use CoreData to make a great Flashcards app. _Taught at 2019 MME National Summit._ 
 - [MobileMapper2019](https://github.com/cwalter50/MobileMapper2019): Completed MME Tutorial to create an app that uses MapKit and we can search the app for "parks", "pizza", etc.
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
-- [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 
+## SwiftUI Projects
+- [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project.
+- [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
