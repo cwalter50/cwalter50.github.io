@@ -26,9 +26,10 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
 
 ## SwiftUI Projects
-- [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator.  
+- [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator. 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [WeSplit](https://github.com/cwalter50/WeSplit): Project 1 in 100 Days of SwiftUI. Day 16-18. TipCalculator App. https://www.hackingwithswift.com/100/swiftui
+- [GuessTheFlag](https://github.com/cwalter50/GuessTheFlag): Project 2 in 100 Days of SwiftUI. Day 20-22. Trivia App. https://www.hackingwithswift.com/100/swiftui
 
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
