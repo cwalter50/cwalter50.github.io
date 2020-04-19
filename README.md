@@ -30,6 +30,7 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [WeSplit](https://github.com/cwalter50/WeSplit): Project 1 in 100 Days of SwiftUI. Day 16-18. TipCalculator App. https://www.hackingwithswift.com/100/swiftui
 - [GuessTheFlag](https://github.com/cwalter50/GuessTheFlag): Project 2 in 100 Days of SwiftUI. Day 20-22. Trivia App. https://www.hackingwithswift.com/100/swiftui
+- [RPS](https://github.com/cwalter50/RPS): Day 25 challenge of 100 Days Swift UI. Fun version of Rock, Paper, Scissors. Try your skills in selecting the correct answers instead of the traditional game.
 
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
