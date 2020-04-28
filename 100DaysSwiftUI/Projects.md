@@ -12,6 +12,7 @@ I am working through a tutorial to teach myself SwiftUI. Here are the projects t
 - [BetterRest](https://github.com/cwalter50/BetterRest): Project 4, Day 26-28. Project that uses CoreML to predict what time to go to bed based off of coffee, desired hours of sleep, and wake up time.
 - [WordScramble](https://github.com/cwalter50/WordScramble): Project 5, Day 29-31. Cool Project that asks User to find as many words that are possible in a random 8 letter word. Reads words from .txt file. Checks to make sure words are valid with UITextChecker(), and introduces List.
 - [TimesTables](https://github.com/cwalter50/TimesTables): Milestone Project, Day 35. Edutainment game to help practice times tables. Added some simple animations and transitions.
+- [iExpense](https://github.com/cwalter50/iExpense): Project 7, Day 36-38. UserDefaults, Struct vs class, codable, multiple views, sharing data between views. Simple app with a List and allows user to track expenses.
 
 
 
