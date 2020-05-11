@@ -14,6 +14,7 @@ I am working through a tutorial to teach myself SwiftUI. Here are the projects t
 - [TimesTables](https://github.com/cwalter50/TimesTables): Milestone Project, Day 35. Edutainment game to help practice times tables. Added some simple animations and transitions.
 - [iExpense](https://github.com/cwalter50/iExpense): Project 7, Day 36-38. UserDefaults, Struct vs class, codable, multiple views, sharing data between views. Simple app with a List and allows user to track expenses.
 - [Moonshot](https://github.com/cwalter50/Moonshot): Project 8, Days 39-42. Powerful app with Multiple Views, Bundle extension to decode JSON using generics, public Images from NASA, free text from Wikipedia, Scrollviews, and GeometryReader. Most advanced and challenging app so far.
+- [HabitTracker](https://github.com/cwalter50/HabitTracker): Day 47 Challenge: Build an App that allows users to keep track of the Activities that they complete. Data saves to UserDefaults. My favorite app so far, and I plan to expand this later to make it an app that I would actualy use to keep track of time I spend on stuff in my life.
 - [CupcakeCorner](https://github.com/cwalter50/CupcakeCorner): Project 10, Days 49-52. Cool Project where you make and order form, to select and buy cupcakes. Forms, Network requests, Class and Observable Objects, Passing data.
 
 
