@@ -18,6 +18,7 @@ I am working through a tutorial to teach myself SwiftUI. Here are the projects t
 - [CupcakeCorner](https://github.com/cwalter50/CupcakeCorner): Project 10, Days 49-52. Cool Project where you make and order form, to select and buy cupcakes. Forms, Network requests, Class and Observable Objects, Passing data.
 - [BookWorm](https://github.com/cwalter50/BookWorm): Project 11, Days 53-57. Make a catalog and rating system of books. Core Data, @Binding, Custom views and rating system with stars and emojis. Free Artwork from https://unsplash.com/. Great app, that I might try to make work with Pizzas and Food!!!
 - [FriendFace](https://github.com/cwalter50/FriendFace): Day 60 & 61 Challenge, Read JSON Data from the internet with a bunch of User and Friend Data. Display User Data and Firend Detail in Detail Views and lists. Day 61 was to figure out how to save and load the data from CoreData. I would like to do this using ONE Struct, but couldn't figure it out. So I made 2 separate classes, User and CDUser. I got a lot of help from this resource for this project. https://github.com/machinemxy/SwiftUI100Days/tree/master/FriendFace
+- [InstaFilter](https://github.com/cwalter50/InstaFilter): Project 13, days 62-67: A lot of Content in this Project. Learned CoreImage and adding filters to a photos. How to work with UIKit classes with Swift UI, specifically UIImagePicker. Great and challengeing project
 
 
 
