@@ -1,10 +1,5 @@
 # OutOfTime!
 
-[Download OutOfTime](https://apps.apple.com/us/app/outoftime/id1333852115)
-
-
-# OutOfTime!
-
 OutOfTime! is an interactive game that you can play with the music on your iOS device. Your music will play for a random amount of time, and your group will take turns listing items in a category or passing an object around. If the music stops and it is your turn, you lose!
 
 OutOfTime! is the perfect game if you have minutes or hours. The game can be played with 2 people or very large groups. The game is great for all ages from young to old. Everyone can have fun playing along.
