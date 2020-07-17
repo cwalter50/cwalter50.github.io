@@ -1,7 +1,9 @@
 # 100 Days SwiftUI 
 
 ### About
-I am working through a tutorial to teach myself SwiftUI. Here are the projects that I learning to make and make. https://www.hackingwithswift.com/100/swiftui
+I am working through a tutorial to teach myself SwiftUI. Here are the projects that I learning to make. https://www.hackingwithswift.com/100/swiftui
+
+I completed the tutorial in June 2020. I really liked it, learned a lot, and was very impressed with the creativity, knowledge, and style of the tutorial. I will do 100 days of Swift in the future for sure. I bet I can find a lot that I can use in Mobile Apps Class.
 
 -[ProjectFiles](https://github.com/twostraws/HackingWithSwift): Here are the project files for 100 Days of SwiftUI. Make sure you click on SwiftUI. 
 
