@@ -28,7 +28,7 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 ## SwiftUI Projects
 - [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator. 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
-- [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI. See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
+- [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI (Completed June 2020). See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
 
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
