@@ -30,6 +30,9 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI (Completed June 2020). See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
 
+## Coding Challenges
+- [AdventOfCode](https://github.com/cwalter50/AdventOfCode): One coding challenge a day for the 25 days of advent. Excited for the challenges.
+
 ## AP CS Projects
 - [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
 - [Fractals](https://github.com/cwalter50/Fractals2): Worked with Dr. Peterson and used JavaSwing to make Sierpenski Triangle
