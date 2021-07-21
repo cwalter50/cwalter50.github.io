@@ -30,6 +30,9 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI (Completed June 2020). See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
 
+## Web Development
+- [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More! 
+
 ## Coding Challenges
 - [AdventOfCode](https://github.com/cwalter50/AdventOfCode): One coding challenge a day for the 25 days of advent. Excited for the challenges.
 
