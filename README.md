@@ -29,7 +29,7 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator. 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI (Completed June 2020). See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
-- [TicTacToeSwiftUI](https://github.com/cwalter50/TicTacToeSwiftUI): Great Session Led by Tom Bredimeir at MME National Summit 2021. We built TicTacToe using SwiftUI. It has animations, Alerts, and More all in ONE struct. Its a small example of how powerful SwiftUI is.
+- [TicTacToeSwiftUI](https://github.com/cwalter50/TicTacToeSwiftUI): Great Session Led by Tom Bredemeier at MME National Summit 2021. We built TicTacToe using SwiftUI. It has animations, Alerts, and More all in ONE struct. Its a small example of how powerful SwiftUI is.
 
 ## Web Development
 - [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More! 
