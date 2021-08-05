@@ -33,6 +33,7 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 
 ## Web Development
 - [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More! 
+- [CWalterBuilds](https://github.com/cwalter50/CWalterBuilds): Building a portfolio website using Django, SQL, Python, Javascript, HTML, CSS, and incorporating different apps including OrderSorter and Polls
 
 ## Coding Challenges
 - [AdventOfCode](https://github.com/cwalter50/AdventOfCode): One coding challenge a day for the 25 days of advent. Excited for the challenges.
