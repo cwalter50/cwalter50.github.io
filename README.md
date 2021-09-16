@@ -34,6 +34,7 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 ## Web Development
 - [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More! 
 - [CWalterBuilds](https://github.com/cwalter50/CWalterBuilds): Building a portfolio website using Django, SQL, Python, Javascript, HTML, CSS, and incorporating different apps including OrderSorter and Polls
+- [UsersAndAuthentication](https://github.com/cwalter50/UsersAuthentication): Followed a tutorial to add Users and Authentication to Django Project in September 2021. Plan to use the model to add Users and Authentication to CWalterBuilds and OrderSorter.  Very cool to see how much of the suthentication, login, logout, and password recovery stuff that Django gives us for free.
 
 ## Coding Challenges
 - [AdventOfCode](https://github.com/cwalter50/AdventOfCode): One coding challenge a day for the 25 days of advent. Excited for the challenges.
