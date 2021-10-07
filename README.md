@@ -24,12 +24,14 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [FlashCards](https://github.com/cwalter50/FlashCards): Use CoreData to make a great Flashcards app. _Taught at 2019 MME National Summit._ 
 - [MobileMapper2019](https://github.com/cwalter50/MobileMapper2019): Completed MME Tutorial to create an app that uses MapKit and we can search the app for "parks", "pizza", etc.
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
+- [HallPass](https://github.com/cwalter50/HallPass): Fun project to teach firebase database to MobileApps Students: People can sign in and out of the class to go bathroom and app will keep track of how long they were out for.
 
 ## SwiftUI Projects
 - [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator. 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI (Completed June 2020). See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
 - [TicTacToeSwiftUI](https://github.com/cwalter50/TicTacToeSwiftUI): Great Session Led by Tom Bredemeier at MME National Summit 2021. We built TicTacToe using SwiftUI. It has animations, Alerts, and More all in ONE struct. Its a small example of how powerful SwiftUI is.
+
 
 ## Web Development
 - [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More! 
