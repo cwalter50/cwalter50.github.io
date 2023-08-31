@@ -28,6 +28,11 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [WordleSwiftUI](https://github.com/cwalter50/WordleSwiftUI): Building Wordle using SwiftUI
 - [ToDoList](https://github.com/cwalter50/ToDoList): Followed a SwiftUI tutorial to learn MVVM (Model, View, ViewModel) programming. The tutorial is from SwiftFul Thinking. https://www.youtube.com/c/SwiftfulThinking
 
+## Microbit
+- coming soon
+
+## Arduino and Rasberry Pi
+[DiscoverDay Projects](https://github.com/cwalter50/DiscoverDayRFID): We built a bunch of smaller arduino and pi projects that interact with RFID stickers on students wands they made for Discover Day. Worked with Dr. Jeremy Tomaszewski and some of my students.
 
 ## Web Development
 - [CWalterBuilds](https://github.com/cwalter50/cwalter50.github.io): Version 1.0 of my portfolio website. The source code for THIS site https://cwalter50.github.io/. Links to many of my projects.
@@ -50,7 +55,9 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 - [Pong2019](https://github.com/cwalter50/PongFall2019): Build the classic game Pong using Spritekit. Intro to Breakout for class
 - [HallPass](https://github.com/cwalter50/HallPass): Fun project to teach firebase database to MobileApps Students: People can sign in and out of the class to go bathroom and app will keep track of how long they were out for.
   
-## AP CS Projects
-- [Batman](https://github.com/cwalter50/BatmanJava): Example of using a loop in a fun way
+## Misc Projects
+- [Wordle](https://replit.com/@ChristopherWalt/Wordle#Main.java): Try to guess the 5 letter word. Inspired by the game Wordle: https://www.nytimes.com/games/wordle. It is similar to Pico-Bagel-Fermi, but with words instead of numbers. Built in Java. Interact with the repl.it
 - [Fractals](https://github.com/cwalter50/Fractals2): Worked with Dr. Peterson and used JavaSwing to make Sierpenski Triangle
 - [QuadCalculator](https://github.com/cwalter50/QuadCalculator): Java Swing Quadratic Formula Calculator. Interact with the repl.it [here](https://repl.it/@ChristopherWalt/QuadCalculator)
+- [GameOf15](https://replit.com/@ChristopherWalt/GameOf15): Started to Learn Processing to teach 2D arrays in AP CSA. Fun program built with replit.com
+
