@@ -34,9 +34,12 @@ iOS Journaling App. Perfect for journaling and sharing your memories or keeping 
 
 
 ## Web Development
-- [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More! 
-- [CWalterBuilds](https://github.com/cwalter50/CWalterBuilds): Building a portfolio website using Django, SQL, Python, Javascript, HTML, CSS, and incorporating different apps including OrderSorter and Polls
+- [CWalterBuilds](https://github.com/cwalter50/cwalter50.github.io): Version 1.0 of my portfolio website. The source code for THIS site https://cwalter50.github.io/. Links to many of my projects.
+- [CS50Web](https://github.com/cwalter50/CS50Web): Learning Web Development by taking this Free EdX course in summer 2021. It covers HTML, CSS, Python, Django, SQL, Javascript, Security, and More!
+- [CWalterBuilds](https://github.com/cwalter50/CWalterBuilds): Version 2.0 of my portfolio website. The source code for THIS site www.cwalterbuilds.com. Building a portfolio website using Django, SQL, Python, Javascript, HTML, CSS, and incorporating different apps including OrderSorter and Polls
 - [UsersAndAuthentication](https://github.com/cwalter50/UsersAuthentication): Followed a tutorial to add Users and Authentication to Django Project in September 2021. Plan to use the model to add Users and Authentication to CWalterBuilds and OrderSorter.  Very cool to see how much of the suthentication, login, logout, and password recovery stuff that Django gives us for free.
+- [ChristopherWalt Repl.it](https://replit.com/@ChristopherWalt): My replit.com profile. Full of hundreds of projects and code samples
+- ChristopherWalt Repl.it: My replit.com profile. Full of hundreds of projects and code samples
 
 ## Coding Challenges
 - [AdventOfCode](https://github.com/cwalter50/AdventOfCode): One coding challenge a day for the 25 days of advent. Excited for the challenges.
