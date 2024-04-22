@@ -7,19 +7,19 @@
 iOS Journaling App. Perfect for journaling and sharing your memories or keeping them private. First Firebase App. | iOS and tvOS Family fun word game. Take turns listing items in a certain category before the music stops. Play music from your device in the game, In-App Purchases, and more. | iOS and tvOS App. Play game of Fifteen slide puzzles with numbers or pictures. You can even play with your own photos. Keep your stats and compete with others. Cloudkit, In-App Purchase, Swift.
 [Download MemoriesTree](https://apps.apple.com/us/app/memoriestree/id1263250242?ls=1) | [Download OutOfTime!](https://apps.apple.com/us/app/outoftime/id1333852115) | [Download Slidearoo](https://apps.apple.com/us/app/slidearoo/id1395435780)
          
-- [AssistStat Basketball](https://apps.apple.com/us/app/assiststat-basketball/id1135998980): iOS Basketball Stat Tracking App. Track stats for your Basketball Team and share with others. Uses CoreData and stats are saved to the devices memory.
-- [HandsDown](https://github.com/wikipeterson/HandsDown): iOS App built with Dr. Steve Peterson. Random student generator. BUilt with Swift, Spritekit, Cloudkit, and custom Artwork.
+- [AssistStat Basketball](https://apps.apple.com/us/app/assiststat-basketball/id1135998980): iOS Basketball Stat Tracking App. Track stats for your Basketball Team and share with others. Uses CoreData and stats are saved to the device's memory.
+- [HandsDown](https://github.com/wikipeterson/HandsDown): iOS App built with Dr. Steve Peterson. Random student generator. Built with Swift, Spritekit, Cloudkit, and custom Artwork.
 - [APIApp](https://github.com/cwalter50/APIApp): Taught myself to work with API's. Used the numbersapi.com primarily but I played around with a few others to see what else I could come up with.
 - [CwalterBuilds Website](https://github.com/cwalter50/cwalter50.github.io): Used GitPages to build this website!!!!
 - [ChristopherWalt Repl.it](https://repl.it/@ChristopherWalt): My repl.it profile. Full of hundreds of projects and code samples
-- [SmartFish](https://github.com/cwalter50/SmartFish): Making a "Smart Aquarium" that can be controlled by an App. Firebase and Arduino. Currently controls lights and auto feeds. Goal is to check temperature, water level, and more.
+- [SmartFish](https://github.com/cwalter50/SmartFish): Making a "Smart Aquarium" that can be controlled by an App. Firebase and Arduino. Currently controls lights and auto feeds. The goal is to check the temperature, water level, and more.
 - [ArduinoConnect](https://github.com/cwalter50/ArduinoConnect): An App that connects to Arduino via Bluetooth. Create During MME National Summit 2018.
 
 ## Github Profile
 [https://github.com/cwalter50/](https://github.com/cwalter50/): My Github Profile
 
 ## SwiftUI Projects
-- [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Qaudratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator. 
+- [CalculateThat](https://github.com/cwalter50/CalculateThat): First SwiftUI Project! Currently, is a Quadratic Formula Calculator, eventually will add other formula calculators to the project. Now has a Length Unit Converter and Tip Calculator. 
 - [Landmarks](https://github.com/cwalter50/Landmarks): SwiftUI tutorial I am following to learn SwiftUI. https://developer.apple.com/tutorials/swiftui/handling-user-input
 - [100DaysSwiftUI](./100DaysSwiftUI/Projects.md): I am working through a tutorial to learn SwiftUI (Completed June 2020). See the Projects that I am making and learning to make. https://www.hackingwithswift.com/100/swiftui
 - [TicTacToeSwiftUI](https://github.com/cwalter50/TicTacToeSwiftUI): Great Session Led by Tom Bredemeier at MME National Summit 2021. We built TicTacToe using SwiftUI. It has animations, Alerts, and More all in ONE struct. Its a small example of how powerful SwiftUI is.
